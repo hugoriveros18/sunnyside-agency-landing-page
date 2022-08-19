@@ -535,6 +535,7 @@
     }
     .picture-collage-container{
         grid-template-columns: repeat(4,1fr);
+        height: 450px;
     }
     .one{
         background-image: url(./assets/desktop/image-gallery-milkbottles.jpg);
