@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Sunnyside agency landing page](https://hugoriveros18.github.io/space-tourism-website/)
+- Live Site URL: [Sunnyside agency landing page](https://hugoriveros18.github.io/sunnyside-agency-landing-page/)
 
 
 ## My process
