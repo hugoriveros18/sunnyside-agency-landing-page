@@ -28,11 +28,11 @@ Users should be able to:
 
 ***Mobile***
 
-<img src="./readme_images/mobile.png" width="800" height="800" /> 
+<img src="./readme_images/mobile.png" width="800" /> 
 
 ***Desktop***
 
-<img src="./readme_images/desktop.png" width="800" height="800" /> 
+<img src="./readme_images/desktop.png" width="800" /> 
 
 ### Links
 
